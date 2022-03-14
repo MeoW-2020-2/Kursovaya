@@ -2,7 +2,7 @@ https://user-images.githubusercontent.com/90068237/153996913-a9aa30a7-44ec-49fa-
 
 ## Для запуска игры:
 - скачать и распаковать архив `Game`
-- запустить файл `Game.exe`
+- запустить файл `In search of a Sapphire.exe`
 
 
 ## Управление
