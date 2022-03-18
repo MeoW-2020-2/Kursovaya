@@ -1,4 +1,5 @@
-https://user-images.githubusercontent.com/90068237/158291006-c51ac74b-375e-45d7-af3e-1697369264de.mp4
+https://user-images.githubusercontent.com/90068237/159043179-d97462f1-fcaa-4986-bb65-2e1b6bf3f749.mp4
+
 
 ## Для запуска игры:
 - скачать и распаковать архив `Game`
